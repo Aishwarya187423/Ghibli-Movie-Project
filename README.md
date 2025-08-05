@@ -1,21 +1,19 @@
-# GROUP1-PROJECT
+# Develped by Aishwarya Jagtap
 
+# 🎬 Movie Making Course Project
 
-## Sprint Duration
-- **Start Date**: 10/12/2024
-- **End Date**: 24/12/2024
+Welcome to the **Ghibli Movie Making Course** GitHub repository! This project is designed to help beginners understand the core elements of filmmaking — from storytelling and script writing to shooting, editing, and publishing.
 
-## Team Members
+## 📚 Course Overview
 
-| Team Members   | Role   |
-| -------------- | ------ |
-| Karthikeyan Murugan | PO     |
-| Vinod Vijayan  | SM     |
-| Ye Tun Thu     |        |
-| Subhashree Pandian          |        |
-| Aishwarya Jagtap            |        |
-| Sreekutty Kottukkal Ajamalan     |        |
+This course will guide you through:
 
-## Sprint Goal
-The goal of Sprint 1 is to design and develop the initial prototype for the online booking system, ensuring a simple, secure, and user-friendly experience for customers and administrators.
-```
+- 🎞️ Scriptwriting and Storyboarding
+- 🎥 Camera Techniques and Angles
+- 💡 Lighting and Sound Basics
+- 🧑‍🤝‍🧑 Team Roles on a Film Set
+- ✂️ Video Editing Techniques
+- 📲 Publishing and Promotion
+
+Whether you're aspiring to be a director, cinematographer, editor, or just passionate about storytelling through video — this course is for you!
+
